@@ -18,7 +18,9 @@ When an alert appears, you have several snooze choices:
 
 > **Screenshot placeholder:** Alert showing all snooze buttons including "Snooze until 1 min before" and "Snooze until start"
 
-The **Snooze until N min before** and **Snooze until start** buttons only appear when there's actually time for them to be useful — they won't show if the event is too close for the snooze to fire before it ends.
+**Snooze until N min before** only appears when there's actually time for it to be useful — it won't show if the snooze would fire after the event ends.
+
+**Snooze until start** is always visible, but becomes disabled once the event has started.
 
 ---
 

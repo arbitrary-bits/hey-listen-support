@@ -6,7 +6,7 @@ Customize what Hey Listen shows next to its icon and in the dropdown menu.
 
 ## Menu Bar Label
 
-Hey Listen can display information about your next meeting directly in the menu bar, next to its icon. Configure this in **Settings → Menu** using the **Menu bar text** picker.
+Hey Listen can display information about your next meeting directly in the menu bar, next to its icon. Configure this in **Settings → Menu Bar** using the **Menu bar text** picker.
 
 > **Screenshot placeholder:** Menu tab showing the "Menu bar text" picker with dropdown open
 
@@ -32,7 +32,7 @@ When a meeting is currently in progress and your next event doesn't start for at
 
 ## Event List
 
-When **Show event list in menu** is enabled (the default), clicking the Hey Listen icon shows your upcoming events grouped by day. Toggle this off in **Settings → Menu** if you only want the icon and label.
+When **Show event list in menu** is enabled (the default), clicking the Hey Listen icon shows your upcoming events grouped by day. Toggle this off in **Settings → Menu Bar** if you only want the icon and label.
 
 > **Screenshot placeholder:** Hey Listen menu open showing upcoming events grouped under day headers
 
@@ -50,7 +50,7 @@ Events for today that have already ended are hidden from the list.
 
 When **Show meeting link indicator on menu items** is enabled, a video camera icon (⌽) appears on menu items for events that have a detectable meeting link. This makes it easy to spot meetings at a glance without opening the submenu.
 
-Toggle this off in **Settings → Menu** if you find it visually noisy.
+Toggle this off in **Settings → Menu Bar** if you find it visually noisy.
 
 > **Screenshot placeholder:** Menu event list with video icons visible on some events and not others
 

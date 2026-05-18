@@ -1,27 +1,19 @@
 # Filtering
 
-Hey Listen can filter out events by RSVP status or by time of day, so you only get alerts for events that matter to you.
+Hey Listen can filter out events by type, RSVP status, or time of day. All filtering options live in **Settings → Filters**.
 
 ---
 
-## RSVP Filtering
+## All-Day Events
 
-Control which events alert you based on how you've responded to them. These toggles are in **Settings → Alerts** under the **RSVP Status** heading.
+By default, Hey Listen does not alert on all-day events (birthdays, holidays, and similar). Turn on **Alert on all-day events** in **Settings → Filters** if you want them included.
 
-| Toggle | Default | What it controls |
-|---|---|---|
-| Alert on events not yet RSVP'd | On | Events you haven't responded to yet |
-| Alert on tentative/maybe events | On | Events you accepted as tentative |
-| Alert on declined events | Off | Events you explicitly declined |
+When enabled, configure when the alert fires:
 
-> **Screenshot placeholder:** Alerts tab showing the three RSVP toggle options
+- **Time** — the time of day you want to be alerted (for example, 8:00 AM)
+- **On** — whether the alert fires the **day of** the event or **the day before**
 
-Events where you're the organizer (no RSVP required) always alert.
-
-**Example configurations:**
-
-- *Only alert on events you've accepted:* Turn off "not yet RSVP'd" and "tentative" — you'll only see alerts for events you've confirmed.
-- *Alert on everything:* Turn on all three, including declined events. Useful if you sometimes attend meetings you technically declined.
+> **Screenshot placeholder:** Filters tab showing "Alert on all-day events" toggle enabled, with the time picker and day picker visible
 
 ---
 
@@ -29,9 +21,9 @@ Events where you're the organizer (no RSVP required) always alert.
 
 Limit alerts to your working hours so you're not disturbed in the evening, on weekends, or any time outside your defined schedule.
 
-Enable this with the **Only alert during work hours** toggle in **Settings → Alerts**.
+Enable this with the **Alert only during work hours** toggle in **Settings → Filters**.
 
-> **Screenshot placeholder:** Alerts tab with "Only alert during work hours" turned on, showing the time pickers and day buttons
+> **Screenshot placeholder:** Filters tab with "Alert only during work hours" turned on, showing the time pickers and day buttons
 
 ### Configuring work hours
 
@@ -47,6 +39,27 @@ Once enabled, set:
 ### Events outside work hours
 
 Work hours filtering applies at the moment the alert would fire — based on the event's start time minus your configured alert lead time. An event starting at 8:55 AM with a 5-minute lead time would alert at 8:50 AM. If 8:50 AM is outside your work hours, no alert fires.
+
+---
+
+## RSVP Filtering
+
+Control which events alert you based on how you've responded to them. These toggles are in **Settings → Filters** under the **RSVP Status** heading.
+
+| Toggle | Default | What it controls |
+|---|---|---|
+| Alert on events not yet RSVP'd | On | Events you haven't responded to yet |
+| Alert on tentative/maybe events | On | Events you accepted as tentative |
+| Alert on declined events | Off | Events you explicitly declined |
+
+> **Screenshot placeholder:** Filters tab showing the three RSVP toggle options
+
+Events where you're the organizer (no RSVP required) always alert.
+
+**Example configurations:**
+
+- *Only alert on events you've accepted:* Turn off "not yet RSVP'd" and "tentative" — you'll only see alerts for events you've confirmed.
+- *Alert on everything:* Turn on all three, including declined events. Useful if you sometimes attend meetings you technically declined.
 
 ---
 

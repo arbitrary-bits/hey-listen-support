@@ -25,11 +25,12 @@ Full documentation for Hey Listen, the macOS menu bar app that shows full-screen
 
 | Setting | Tab |
 |---|---|
-| Launch at login, time format | Settings → General |
+| Trial status, purchase, launch at login, time format | Settings → General |
 | Calendar selection, per-calendar alert time | Settings → Calendars |
-| Alert timing, screen mode, RSVP filtering, work hours, snooze timing, muted title patterns | Settings → Alerts |
-| Menu bar label, event list, event range, meeting link indicator | Settings → Menu |
-| Trial and purchase | Settings → About |
+| Alert timing, screen mode, snooze timing, native app meetings | Settings → Alerts |
+| All-day events, work hours, RSVP filtering, muted title patterns | Settings → Filters |
+| Menu bar label, event list, event range, meeting link indicator | Settings → Menu Bar |
+| End User License Agreement | Settings → About |
 
 ---
 

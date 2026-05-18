@@ -54,9 +54,9 @@ You can also set a different alert time per calendar in **Settings → Calendars
 
 ## 5. Preview an Alert
 
-Still in **Settings → Alerts**, click **See an alert** to see exactly what an alert looks like before your next real event. Snooze and dismiss work normally in the preview.
+Still in **Settings → Alerts**, click **Preview an alert** to see exactly what an alert looks like before your next real event. Snooze and dismiss work normally in the preview.
 
-> **Screenshot placeholder:** "See an alert" button in the Alerts tab
+> **Screenshot placeholder:** "Preview an alert" button in the Alerts tab
 
 > **Screenshot placeholder:** Full-screen alert showing event title, time, snooze buttons, and dismiss button
 

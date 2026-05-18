@@ -15,7 +15,6 @@ When it's time for an alert, Hey Listen shows a full-screen overlay that's impos
 - A **Join Meeting** button, if a meeting link is detected
 - Snooze buttons
 - A **Dismiss** button
-- **Mute Event** and **Mute Series** buttons (for recurring events)
 
 > **Screenshot placeholder:** Full-screen alert with event title, countdown, Join Meeting button, snooze buttons, and Dismiss button
 
@@ -79,12 +78,6 @@ By default, meeting links open in your browser. Toggle **Open Zoom and Teams mee
 
 ---
 
-## All-Day Events
-
-By default, Hey Listen does not alert on all-day events (birthdays, holidays, and similar). Turn on **Alert on all-day events** in **Settings → Alerts** if you want them included.
-
----
-
 ## Missed Alerts
 
 If your Mac was asleep or the app wasn't running when an alert was scheduled, the alert fires as soon as you wake up or relaunch Hey Listen — provided the event hasn't ended yet.
@@ -93,9 +86,9 @@ If your Mac was asleep or the app wasn't running when an alert was scheduled, th
 
 ## Alert Preview
 
-Click **See an alert** at the top of **Settings → Alerts** to trigger a demo alert. If you have upcoming events on selected calendars, Hey Listen uses a real event; otherwise it shows a placeholder. Snooze and dismiss work normally in the preview.
+Click **Preview an alert** at the top of **Settings → Alerts** to trigger a demo alert. If you have upcoming events on selected calendars, Hey Listen uses a real event; otherwise it shows a placeholder. Snooze and dismiss work normally in the preview.
 
-> **Screenshot placeholder:** "See an alert" button at the top of the Alerts tab
+> **Screenshot placeholder:** "Preview an alert" button at the top of the Alerts tab
 
 ---
 
@@ -103,7 +96,7 @@ Click **See an alert** at the top of **Settings → Alerts** to trigger a demo a
 
 - [Snooze](snooze.md) — All snooze options explained
 - [Muting](muting.md) — Prevent alerts for specific events or titles
-- [Filtering](filtering.md) — Filter by RSVP status or work hours
+- [Filtering](filtering.md) — Filter by RSVP status, work hours, or all-day events
 - [Calendars](calendars.md) — Per-calendar alert time overrides
 
 ---
