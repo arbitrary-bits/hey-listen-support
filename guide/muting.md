@@ -8,7 +8,7 @@ Muting lets you silence alerts for events you don't need reminders for — witho
 
 To silence the alert for one specific occurrence of an event, open the menu bar, click the event to open its submenu, then click **Mute Event**.
 
-> **Screenshot placeholder:** Event submenu with "Mute Event" option highlighted
+![Event submenu with "Mute Event" option highlighted](images/menu-muteevent.png)
 
 Muted events appear grayed out in the menu bar event list as a reminder that their alerts are silenced.
 
@@ -18,7 +18,7 @@ Muted events appear grayed out in the menu bar event list as a reminder that the
 
 For recurring events, you can mute all future occurrences at once. Open the event's submenu in the menu bar and click **Mute Series**.
 
-> **Screenshot placeholder:** Event submenu with both "Mute Event" and "Mute Series" visible, for a recurring event
+![Event submenu with both "Mute Event" and "Mute Series" visible, for a recurring event](images/menu-muteseries.png)
 
 ---
 
@@ -31,7 +31,7 @@ Go to **Settings → Filters** and find the **Mute events by title** section:
 1. Type the text to match (case-insensitive) into the field
 2. Press Enter or click **Add**
 
-> **Screenshot placeholder:** Filters tab showing the "Mute events by title" section with one or two patterns already added
+![Filters tab showing the "Mute events by title" section with one or two patterns already added](images/filters-muteevents.png)
 
 Any event whose title contains your pattern will be silently skipped — no alert will appear. The match is a simple substring search; there's no need for wildcards.
 
@@ -54,7 +54,7 @@ Click the event in the menu and select **Unmute Event** or **Unmute Series**.
 
 Open **Settings → Filters** and scroll to the **Muted Events** section. Muted series and individual occurrences are listed here. Click **Unmute** next to any item to restore its alerts.
 
-> **Screenshot placeholder:** Muted Events section in the Filters tab, showing a muted series and a muted single occurrence with Unmute buttons
+![Muted Events section in the Filters tab, showing a muted series and a muted single occurrence with Unmute buttons](images/filters-muteevents.png)
 
 ---
 

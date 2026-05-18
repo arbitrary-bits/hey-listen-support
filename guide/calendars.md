@@ -19,7 +19,10 @@ Open **Settings → Calendars**. The top of the tab shows your current calendar 
 
 **To re-enable access after denying:** Click **Open System Settings** and toggle Hey Listen on under **Privacy & Security → Calendars**.
 
-> **Screenshot placeholder:** Calendars tab showing each possible access status state
+![Calendars tab — Not Requested status](images/calendars-notrequested.png)
+![Calendars tab — Connected status](images/calendars-connected.png)
+![Calendars tab — Access Denied status](images/calendars-accessdenied.png)
+![Calendars tab — Write-only access status](images/calendars-writeaccessonly.png)
 
 ---
 
@@ -29,7 +32,7 @@ With access granted, your calendars appear in a list on the left side of the **C
 
 Toggle a calendar on to include it in Hey Listen's monitoring. Toggle it off to exclude it.
 
-> **Screenshot placeholder:** Calendars tab showing calendars grouped by account with color dots and toggle switches
+![Calendars tab showing calendars grouped by account with color dots and toggle switches](images/calendars-grouped.png)
 
 ---
 
@@ -40,7 +43,7 @@ When a calendar is toggled on, an **Alert** field appears below its name. This l
 - If the field matches your global alert time, it shows the inherited value without special marking.
 - If you've set a custom value, a **Reset** link appears next to the field — click it to remove the override and return to the global default.
 
-> **Screenshot placeholder:** Zoomed view of a selected calendar row showing the Alert field with a custom value and Reset button
+![Zoomed view of a selected calendar row showing the Alert field with a custom value and Reset button](images/calendars-row.png)
 
 **Example:** Your global alert time is 5 minutes, but your "Work" calendar contains events you always need more notice for. Set the "Work" calendar's alert time to 15 minutes.
 
@@ -52,7 +55,7 @@ The right panel of the **Calendars** tab shows a live preview of upcoming events
 
 Scroll to the bottom to load more days automatically.
 
-> **Screenshot placeholder:** Right panel of the Calendars tab showing upcoming events grouped by date
+![Right panel of the Calendars tab showing upcoming events grouped by date](images/calendars-upcomingevents.png)
 
 ---
 

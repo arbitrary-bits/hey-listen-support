@@ -8,7 +8,7 @@ This guide walks you through installing Hey Listen and getting your first alert.
 
 Download Hey Listen from the Mac App Store and open it. Hey Listen runs entirely from your menu bar — there is no dock icon. After launch, look for the bell icon in the top-right corner of your screen.
 
-> **Screenshot placeholder:** Menu bar with Hey Listen icon visible
+![Menu bar with Hey Listen icon visible](images/menu-icon.png)
 
 Click the icon to open the menu. The first time you launch, Settings will open automatically so you can finish setup.
 
@@ -18,13 +18,13 @@ Click the icon to open the menu. The first time you launch, Settings will open a
 
 Open **Settings → Calendars**. If Hey Listen hasn't been granted access to your calendars yet, you'll see an orange "Not Requested" status with a **Continue** button.
 
-> **Screenshot placeholder:** Calendars tab showing the "Not Requested" status and Continue button
+![Calendars tab showing the "Not Requested" status and Continue button](images/calendars-notrequested.png)
 
 Click **Continue**. macOS will show a system permission prompt — click **Allow**.
 
 Once access is granted, the status changes to a green "Connected" indicator.
 
-> **Screenshot placeholder:** Calendars tab showing green "Connected" status
+![Calendars tab showing green "Connected" status](images/calendars-connected.png)
 
 If you previously denied access, the status shows a red "Denied" indicator. Click **Open System Settings** and enable Hey Listen under **Privacy & Security → Calendars**.
 
@@ -34,11 +34,11 @@ If you previously denied access, the status shows a red "Denied" indicator. Clic
 
 After connecting, a list of all your calendars appears, grouped by account (iCloud, Google, Outlook, and so on). Toggle on the calendars you want alerts for.
 
-> **Screenshot placeholder:** Calendars tab with several calendars toggled on, grouped by account name
+![Calendars tab with several calendars toggled on, grouped by account name](images/calendars-select.png)
 
 The right side of the tab shows a live preview of upcoming events from your selected calendars, so you can confirm you've picked the right ones.
 
-> **Screenshot placeholder:** Upcoming events panel on the right side of the Calendars tab
+![Upcoming events panel on the right side of the Calendars tab](images/calendars-events.png)
 
 ---
 
@@ -46,7 +46,7 @@ The right side of the tab shows a live preview of upcoming events from your sele
 
 Open **Settings → Alerts**. The first field controls how many minutes before an event the alert appears. You can type a number or use the stepper arrows.
 
-> **Screenshot placeholder:** Alerts tab with the alert time field highlighted
+![Alerts tab with the alert time field highlighted](images/alerts-timefield.png)
 
 You can also set a different alert time per calendar in **Settings → Calendars**, and override the timing for individual events or recurring series directly from the menu bar. See [Alerts](alerts.md) for the full priority order.
 
@@ -56,9 +56,9 @@ You can also set a different alert time per calendar in **Settings → Calendars
 
 Still in **Settings → Alerts**, click **Preview an alert** to see exactly what an alert looks like before your next real event. Snooze and dismiss work normally in the preview.
 
-> **Screenshot placeholder:** "Preview an alert" button in the Alerts tab
+!["Preview an alert" button in the Alerts tab](images/alerts-preview.png)
 
-> **Screenshot placeholder:** Full-screen alert showing event title, time, snooze buttons, and dismiss button
+![Full-screen alert showing event title, time, snooze buttons, and dismiss button](images/alertview.png)
 
 ---
 

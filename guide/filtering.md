@@ -13,7 +13,7 @@ When enabled, configure when the alert fires:
 - **Time** — the time of day you want to be alerted (for example, 8:00 AM)
 - **On** — whether the alert fires the **day of** the event or **the day before**
 
-> **Screenshot placeholder:** Filters tab showing "Alert on all-day events" toggle enabled, with the time picker and day picker visible
+![Filters tab showing "Alert on all-day events" toggle enabled, with the time picker and day picker visible](images/filters-alldayenabled.png)
 
 ---
 
@@ -23,7 +23,7 @@ Limit alerts to your working hours so you're not disturbed in the evening, on we
 
 Enable this with the **Alert only during work hours** toggle in **Settings → Filters**.
 
-> **Screenshot placeholder:** Filters tab with "Alert only during work hours" turned on, showing the time pickers and day buttons
+![Filters tab with "Alert only during work hours" turned on, showing the time pickers and day buttons](images/alerts-workhoursenabled.png)
 
 ### Configuring work hours
 
@@ -32,7 +32,7 @@ Once enabled, set:
 - **From / To** — Your start and end times for receiving alerts
 - **Days** — Toggle each weekday button on or off (Mon through Sun)
 
-> **Screenshot placeholder:** Work hours section showing time pickers set to 9:00 AM–6:00 PM and Mon–Fri toggled on
+![Work hours section showing time pickers set to 9:00 AM–6:00 PM and Mon–Fri toggled on](images/alerts-workhoursenabled.png)
 
 **Example:** 9:00 AM to 6:00 PM, Monday through Friday. An event on Saturday or at 7:00 PM on a weekday will not trigger an alert.
 
@@ -52,7 +52,7 @@ Control which events alert you based on how you've responded to them. These togg
 | Alert on tentative/maybe events | On | Events you accepted as tentative |
 | Alert on declined events | Off | Events you explicitly declined |
 
-> **Screenshot placeholder:** Filters tab showing the three RSVP toggle options
+![Filters tab showing the three RSVP toggle options](images/filters-rsvpoptions.png)
 
 Events where you're the organizer (no RSVP required) always alert.
 

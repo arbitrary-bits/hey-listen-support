@@ -16,7 +16,7 @@ When it's time for an alert, Hey Listen shows a full-screen overlay that's impos
 - Snooze buttons
 - A **Dismiss** button
 
-> **Screenshot placeholder:** Full-screen alert with event title, countdown, Join Meeting button, snooze buttons, and Dismiss button
+![Full-screen alert with event title, countdown, Join Meeting button, snooze buttons, and Dismiss button](images/alertview-joinmeeting.png)
 
 When you dismiss an alert, Hey Listen returns focus to whatever app you were using before.
 
@@ -28,19 +28,19 @@ When you dismiss an alert, Hey Listen returns focus to whatever app you were usi
 
 Set in **Settings → Alerts**. This is the default number of minutes before an event that an alert appears.
 
-> **Screenshot placeholder:** Alerts tab showing the alert time field and stepper
+![Alerts tab showing the alert time field and stepper](images/alerts-timefield.png)
 
 ### Per-Calendar Override
 
 In **Settings → Calendars**, each selected calendar has an **Alert** field next to it. Setting this overrides the global time for all events in that calendar.
 
-> **Screenshot placeholder:** Calendars tab showing per-calendar alert time field with a custom value and Reset button
+![Calendars tab showing per-calendar alert time field with a custom value and Reset button](images/calendars-customtime.png)
 
 ### Per-Event and Per-Series Override
 
 In the menu bar event list, click an event to open its submenu. The **Set Alert Time** submenu lets you set a custom alert time for just that event occurrence. For recurring events, **Set Series Alert Time** applies to all future occurrences in the series.
 
-> **Screenshot placeholder:** Event submenu showing "Set Alert Time" and "Set Series Alert Time" menus with preset options
+![Event submenu showing "Set Alert Time" and "Set Series Alert Time" menus with preset options](images/menu-eventsubmenu.png)
 
 ### Priority Order
 
@@ -62,7 +62,7 @@ Choose where alerts appear using the **Show alerts on** picker in **Settings →
 - **Active screen** — alert appears on whichever display your cursor is on
 - **All screens** — alert appears on every connected display simultaneously
 
-> **Screenshot placeholder:** Alerts tab with the "Show alerts on" picker visible
+![Alerts tab with the "Show alerts on" picker visible](images/alerts-showonscreen.png)
 
 ---
 
@@ -70,7 +70,7 @@ Choose where alerts appear using the **Show alerts on** picker in **Settings →
 
 If an event has a detectable meeting link (Zoom, Google Meet, Microsoft Teams, and others), a **Join Meeting** button appears prominently in the alert. Clicking it opens the meeting and dismisses the alert.
 
-> **Screenshot placeholder:** Full-screen alert with Join Meeting button highlighted
+![Full-screen alert with Join Meeting button highlighted](images/alertview-joinmeetinghighlighted.png)
 
 ### Open in Native Apps
 
@@ -88,7 +88,7 @@ If your Mac was asleep or the app wasn't running when an alert was scheduled, th
 
 Click **Preview an alert** at the top of **Settings → Alerts** to trigger a demo alert. If you have upcoming events on selected calendars, Hey Listen uses a real event; otherwise it shows a placeholder. Snooze and dismiss work normally in the preview.
 
-> **Screenshot placeholder:** "Preview an alert" button at the top of the Alerts tab
+!["Preview an alert" button at the top of the Alerts tab](images/alerts-preview.png)
 
 ---
 

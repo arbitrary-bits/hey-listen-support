@@ -8,7 +8,7 @@ Customize what Hey Listen shows next to its icon and in the dropdown menu.
 
 Hey Listen can display information about your next meeting directly in the menu bar, next to its icon. Configure this in **Settings → Menu Bar** using the **Menu bar text** picker.
 
-> **Screenshot placeholder:** Menu tab showing the "Menu bar text" picker with dropdown open
+![Menu tab showing the "Menu bar text" picker with dropdown open](images/menubar-textoption.png)
 
 ### Label formats
 
@@ -26,7 +26,7 @@ Hey Listen can display information about your next meeting directly in the menu 
 
 When a meeting is currently in progress and your next event doesn't start for at least 10 minutes, the label automatically switches to show time remaining in the current event — for example, `14m left` or `1h 2m left`.
 
-> **Screenshot placeholder:** Menu bar showing "14m left" label during an in-progress event
+![Menu bar showing "14m left" label during an in-progress event](images/menu-inprogressevent.png)
 
 ---
 
@@ -34,13 +34,13 @@ When a meeting is currently in progress and your next event doesn't start for at
 
 When **Show event list in menu** is enabled (the default), clicking the Hey Listen icon shows your upcoming events grouped by day. Toggle this off in **Settings → Menu Bar** if you only want the icon and label.
 
-> **Screenshot placeholder:** Hey Listen menu open showing upcoming events grouped under day headers
+![Hey Listen menu open showing upcoming events grouped under day headers](images/menu-upcomingevents.png)
 
 ### Event range
 
 Use the **Show events for** picker to control how far ahead the event list looks. Options range from Today only up to 7 days.
 
-> **Screenshot placeholder:** "Show events for" picker in the Menu tab with the dropdown open
+!["Show events for" picker in the Menu tab with the dropdown open](images/menubar-showeventsfordays.png)
 
 Events for today that have already ended are hidden from the list.
 
@@ -52,7 +52,7 @@ When **Show meeting link indicator on menu items** is enabled, a video camera ic
 
 Toggle this off in **Settings → Menu Bar** if you find it visually noisy.
 
-> **Screenshot placeholder:** Menu event list with video icons visible on some events and not others
+![Menu event list with video icons visible on some events and not others](images/menu-upcomingevents.png)
 
 ---
 
@@ -60,7 +60,7 @@ Toggle this off in **Settings → Menu Bar** if you find it visually noisy.
 
 When two or more calendars are selected for monitoring, each event in the menu list shows a color dot matching its calendar. This helps you tell events apart at a glance when multiple calendars are active.
 
-> **Screenshot placeholder:** Menu event list showing color dots next to event names
+![Menu event list showing color dots next to event names](images/menu-upcomingevents.png)
 
 ---
 
@@ -72,13 +72,13 @@ Click any event in the menu to open its submenu. From here you can:
 
 If a meeting link is detected, **Join Meeting** opens it immediately. **Copy Meeting Link** puts the URL on your clipboard.
 
-> **Screenshot placeholder:** Event submenu showing "Join Meeting" and "Copy Meeting Link" options
+![Event submenu showing "Join Meeting" and "Copy Meeting Link" options](images/menu-eventsubmenu.png)
 
 ### View event details
 
 **View Event** opens a detail panel with the full event title, time, location, description, and attendee list.
 
-> **Screenshot placeholder:** Event detail panel showing title, time, attendees, and formatted notes
+![Event detail panel showing title, time, attendees, and formatted notes](images/event-detail.png)
 
 ### Mute or unmute
 
@@ -94,7 +94,7 @@ A checkmark shows the currently active time. The label shows whether the time is
 
 Select **Reset to Default** to remove the override.
 
-> **Screenshot placeholder:** "Set Alert Time" submenu open, showing preset options with a checkmark on the current value and a "Reset to Default" option at the bottom
+!["Set Alert Time" submenu open, showing preset options with a checkmark on the current value and a "Reset to Default" option at the bottom](images/menu-setalerttime.png)
 
 ---
 

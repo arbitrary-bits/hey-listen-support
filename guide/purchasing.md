@@ -10,6 +10,8 @@ Hey Listen includes a **14-day free trial** with full access to all features. No
 
 Your trial status is shown at the top of **Settings → General**, including how many days remain.
 
+![General tab showing trial status with days remaining and purchase button](images/general-intrial.png)
+
 ---
 
 ## Purchasing
@@ -17,6 +19,8 @@ Your trial status is shown at the top of **Settings → General**, including how
 After the trial ends, alerts are paused and a purchase prompt appears the next time an alert would fire. You can purchase from the prompt or at any time from **Settings → General**.
 
 Hey Listen is a **one-time purchase** — there is no subscription. Pay once and use it indefinitely, including future updates.
+
+![General tab showing purchased status](images/general-fullversion.png)
 
 ---
 

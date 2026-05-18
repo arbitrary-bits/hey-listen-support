@@ -16,7 +16,7 @@ When an alert appears, you have several snooze choices:
 | **Snooze until N min before** | Dismiss and re-show at your configured lead time before the event |
 | **Snooze until start** | Dismiss and re-show exactly when the event begins |
 
-> **Screenshot placeholder:** Alert showing all snooze buttons including "Snooze until 1 min before" and "Snooze until start"
+![Alert showing all snooze buttons including "Snooze until 1 min before" and "Snooze until start"](images/alert-snoozebuttons.png)
 
 **Snooze until N min before** only appears when there's actually time for it to be useful — it won't show if the snooze would fire after the event ends.
 
@@ -28,7 +28,7 @@ When an alert appears, you have several snooze choices:
 
 The **N** in "Snooze until N min before" is configurable. Go to **Settings → Alerts** and adjust the **"Snooze until before" minutes** field.
 
-> **Screenshot placeholder:** Alerts tab showing the "Snooze until before minutes" field with stepper
+![Alerts tab showing the "Snooze until before minutes" field with stepper](images/alerts-snoozeuntil.png)
 
 For example, if you set this to 2 minutes, the button will read "Snooze until 2 min before", and snoozing will re-show the alert 2 minutes before the event starts — giving you one final heads-up right before go time.
 
