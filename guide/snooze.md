@@ -24,11 +24,11 @@ When an alert appears, you have several snooze choices:
 
 ---
 
-## Configuring "Snooze Until Before"
+## Configuring "Default Snooze Time"
 
-The **N** in "Snooze until N min before" is configurable. Go to **Settings → Alerts** and adjust the **"Snooze until before" minutes** field.
+The **N** in "Snooze until N min before" is configurable. Go to **Settings → Alerts** and adjust the **"Default snooze time"** field.
 
-![Alerts tab showing the "Snooze until before minutes" field with stepper](images/alerts-snoozeuntil.png)
+![Alerts tab showing the "Default snooze time" field with stepper](images/alerts-snoozeuntil.png)
 
 For example, if you set this to 2 minutes, the button will read "Snooze until 2 min before", and snoozing will re-show the alert 2 minutes before the event starts — giving you one final heads-up right before go time.
 

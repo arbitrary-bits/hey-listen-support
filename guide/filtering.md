@@ -21,18 +21,12 @@ When enabled, configure when the alert fires:
 
 Limit alerts to your working hours so you're not disturbed in the evening, on weekends, or any time outside your defined schedule.
 
-Enable this with the **Alert only during work hours** toggle in **Settings → Filters**.
-
-![Filters tab with "Alert only during work hours" turned on, showing the time pickers and day buttons](images/alerts-workhoursenabled.png)
-
-### Configuring work hours
-
-Once enabled, set:
+Enable this with the **Alert only during work hours** toggle in **Settings → Filters**. Once enabled, set:
 
 - **From / To** — Your start and end times for receiving alerts
 - **Days** — Toggle each weekday button on or off (Mon through Sun)
 
-![Work hours section showing time pickers set to 9:00 AM–6:00 PM and Mon–Fri toggled on](images/alerts-workhoursenabled.png)
+![Filters tab with "Alert only during work hours" turned on, showing the time pickers and day buttons](images/alerts-workhoursenabled.png)
 
 **Example:** 9:00 AM to 6:00 PM, Monday through Friday. An event on Saturday or at 7:00 PM on a weekday will not trigger an alert.
 

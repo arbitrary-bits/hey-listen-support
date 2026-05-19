@@ -38,7 +38,7 @@ If you reinstall Hey Listen or switch to a new Mac, your purchase is tied to you
 
 ## Questions
 
-For purchase-related questions, please [open an issue](../../issues/new) or contact [heylisten@arbitrarystudios.com](mailto:heylisten@arbitrarystudios.com).
+For purchase-related questions, please contact [heylisten@arbitrarystudios.com](mailto:heylisten@arbitrarystudios.com).
 
 ---
 

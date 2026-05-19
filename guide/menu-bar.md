@@ -46,16 +46,6 @@ Events for today that have already ended are hidden from the list.
 
 ---
 
-## Meeting Link Indicator
-
-When **Show meeting link indicator on menu items** is enabled, a video camera icon (⌽) appears on menu items for events that have a detectable meeting link. This makes it easy to spot meetings at a glance without opening the submenu.
-
-Toggle this off in **Settings → Menu Bar** if you find it visually noisy.
-
-![Menu event list with video icons visible on some events and not others](images/menu-upcomingevents.png)
-
----
-
 ## Calendar Color Dots
 
 When two or more calendars are selected for monitoring, each event in the menu list shows a color dot matching its calendar. This helps you tell events apart at a glance when multiple calendars are active.
